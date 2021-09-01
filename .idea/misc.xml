@@ -1,5 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/SAMUELKWAMEAGBENORWU/AndroidStudioProjects/LinkRestaurantStaff/app/src/main/res/drawable/border_button.xml" value="0.21574074074074073" />
+        <entry key="..\:/Users/SAMUELKWAMEAGBENORWU/AndroidStudioProjects/LinkRestaurantStaff/app/src/main/res/layout/activity_hot_food.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/SAMUELKWAMEAGBENORWU/AndroidStudioProjects/LinkRestaurantStaff/app/src/main/res/layout/activity_main.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/SAMUELKWAMEAGBENORWU/AndroidStudioProjects/LinkRestaurantStaff/app/src/main/res/layout/activity_order_detail.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/SAMUELKWAMEAGBENORWU/AndroidStudioProjects/LinkRestaurantStaff/app/src/main/res/layout/activity_shipper_order.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/SAMUELKWAMEAGBENORWU/AndroidStudioProjects/LinkRestaurantStaff/app/src/main/res/layout/activity_update_information.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/SAMUELKWAMEAGBENORWU/AndroidStudioProjects/LinkRestaurantStaff/app/src/main/res/layout/app_bar_main.xml" value="0.17314814814814813" />
+        <entry key="..\:/Users/SAMUELKWAMEAGBENORWU/AndroidStudioProjects/LinkRestaurantStaff/app/src/main/res/layout/content_main.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/SAMUELKWAMEAGBENORWU/AndroidStudioProjects/LinkRestaurantStaff/app/src/main/res/layout/layout_loading.xml" value="0.17314814814814813" />
+        <entry key="..\:/Users/SAMUELKWAMEAGBENORWU/AndroidStudioProjects/LinkRestaurantStaff/app/src/main/res/layout/layout_order.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/SAMUELKWAMEAGBENORWU/AndroidStudioProjects/LinkRestaurantStaff/app/src/main/res/layout/layout_order_detail_item.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/SAMUELKWAMEAGBENORWU/AndroidStudioProjects/LinkRestaurantStaff/app/src/main/res/layout/layout_order_detail_item_addon.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/SAMUELKWAMEAGBENORWU/AndroidStudioProjects/LinkRestaurantStaff/app/src/main/res/layout/layout_order_need_ship.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/SAMUELKWAMEAGBENORWU/AndroidStudioProjects/LinkRestaurantStaff/app/src/main/res/layout/nav_header_main.xml" value="0.17314814814814813" />
+        <entry key="..\:/Users/SAMUELKWAMEAGBENORWU/AndroidStudioProjects/LinkRestaurantStaff/app/src/main/res/menu/activity_main_drawer.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/SAMUELKWAMEAGBENORWU/AndroidStudioProjects/LinkRestaurantStaff/app/src/main/res/menu/home.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/SAMUELKWAMEAGBENORWU/AndroidStudioProjects/LinkRestaurantStaff/app/src/main/res/menu/order_detail_menu.xml" value="0.22447916666666667" />
+      </map>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
